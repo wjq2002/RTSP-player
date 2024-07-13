@@ -1,0 +1,19 @@
+
+0: rtsp://admin:cuhksz123456@10.20.30.101
+18: rtsp://admin:cuhksz123456@10.20.30.123
+21: rtsp://admin:cuhksz123456@10.20.30.121
+24: rtsp://admin:cuhksz123456@10.20.30.123
+30: rtsp://admin:cuhksz123456@10.20.30.101
+32: rtsp://admin:cuhksz123456@10.20.30.124
+379: rtsp://admin:cuhksz123456@10.20.30.123
+384: rtsp://admin:cuhksz123456@10.20.30.121
+386: rtsp://admin:cuhksz123456@10.20.30.101
+388: rtsp://admin:cuhksz123456@10.20.30.123
+438: rtsp://admin:cuhksz123456@10.20.30.121
+441: rtsp://admin:cuhksz123456@10.20.30.123
+443: rtsp://admin:cuhksz123456@10.20.30.101
+445: rtsp://admin:cuhksz123456@10.20.30.116
+474: rtsp://admin:cuhksz123456@10.20.30.123
+476: rtsp://admin:cuhksz123456@10.20.30.121
+478: rtsp://admin:cuhksz123456@10.20.30.101
+479: rtsp://admin:cuhksz123456@10.20.30.124

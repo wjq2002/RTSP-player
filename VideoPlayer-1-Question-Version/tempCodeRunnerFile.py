@@ -1,0 +1,1 @@
+self.player[0].pause()
